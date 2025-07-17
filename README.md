@@ -1,4 +1,4 @@
-# 🇮🇳 Indian Sign Language Converter 🤟
+# Indian Sign Language Converter 🤟
 
 An AI-powered system that converts Indian Sign Language (ISL) gestures into readable text using deep learning (LSTM). Designed to help bridge the communication gap for the deaf and hard-of-hearing community in India.
 
@@ -14,7 +14,7 @@ An AI-powered system that converts Indian Sign Language (ISL) gestures into read
 
 ---
 
-## 🧠 Tech Stack
+## 📈 Tech Stack
 
 - Python
 - TensorFlow / Keras
@@ -24,6 +24,4 @@ An AI-powered system that converts Indian Sign Language (ISL) gestures into read
 - (Optional) MediaPipe for keypoint detection
 
 ---
-
-## 📁 Folder Structure
 
